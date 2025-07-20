@@ -1,3 +1,3 @@
 console.log("Hello World!");
 console.log("Checking got token");
-console.log("Some changes made locally");
+console.log("Editing code form github to simulate some changes made by others");
